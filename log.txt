@@ -1,0 +1,7 @@
+ervaldez@NB101388 MINGW64 ~/OneDrive - ANDREANI LOGISTICA SA/Escritorio/nuevo_repositorio (main)
+$ git log
+commit e7b3e1e1c25235f72fd4a0e528797f8ed706a48a (HEAD -> main, origin/main)
+Author: Erika Valdez <ervaldez@andreani.com>
+Date:   Mon Jan 23 16:07:16 2023 -0300
+
+    Ejercicio 1 primer commit
